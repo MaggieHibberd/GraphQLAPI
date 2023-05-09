@@ -7,9 +7,9 @@
 ### Run migrations -> python manage.py migrate
 ### Create SuperUser -> python manage.py createsuperuser
 ### Run server -> python manage.py runserver
-### Go to admin and login -> eg  http://127.0.0.1:8000/admin
+### Go to admin and login -> eg  http://xx:xx/admin
 ### Add data into 'Books'
-### Make your way to the graphQL interface -> http://127.0.0.1:8000/graphql
+### Make your way to the graphQL interface -> http://xx:xx/graphql
 
 
 
